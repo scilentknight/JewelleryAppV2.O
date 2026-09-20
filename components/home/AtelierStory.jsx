@@ -93,7 +93,7 @@ export default function AtelierStory() {
               <div className="relative aspect-[4/5] w-full rounded-sm overflow-hidden shadow-2xl border-2 border-[#2A2521]">
                 <Image
                   src={atelierHeritage.imageMain}
-                  alt="Sazuna Master Jeweller at work"
+                  alt="Alora Master Jeweller at work"
                   fill
                   sizes="(max-width: 768px) 100vw, 480px"
                   className="object-cover hover:scale-105 transition-transform duration-1000"

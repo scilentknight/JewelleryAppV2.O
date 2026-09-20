@@ -9,7 +9,7 @@ export default function EditorialCampaign() {
       {/* Background Campaign Image */}
       <Image
         src={editorialCampaign.image}
-        alt="Sazuna Editorial Campaign"
+        alt="Alora Editorial Campaign"
         fill
         sizes="100vw"
         className="object-cover object-center group-hover:scale-105 transition-transform duration-1000 ease-out"

@@ -16,8 +16,8 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "Sazuna Jewellers | Best Affordable Price And Best Quality",
-  description: "Get Best Affordable Price And Best Quality at Sazuna Jewellers.",
+  title: "Alora Jewellers | Best Affordable Price And Best Quality",
+  description: "Get Best Affordable Price And Best Quality at Alora Jewellers.",
 };
 
 export default function RootLayout({ children }) {

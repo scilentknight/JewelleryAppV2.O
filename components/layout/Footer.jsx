@@ -10,7 +10,7 @@ export default function Footer() {
         <div className="flex flex-col lg:flex-row items-start lg:items-center justify-between pb-16 border-b border-[#2A2521] gap-8">
           <div className="max-w-xl">
             <span className="text-[10px] tracking-[0.3em] uppercase text-[#C5A880] font-semibold flex items-center gap-2 mb-2">
-              <Sparkles size={12} /> The Sazuna Promise
+              <Sparkles size={12} /> The Alora Promise
             </span>
             <h3 className="font-serif text-2xl md:text-3xl font-normal text-[#FAF8F5] leading-snug">
               Every Diamond Tells an Eternal Story of Radiance & Grace.
@@ -42,7 +42,7 @@ export default function Footer() {
           {/* Column 1: Maison Provenance */}
           <div className="lg:col-span-2 flex flex-col gap-5">
             <div>
-              <span className="font-serif text-2xl tracking-[0.25em] font-semibold text-[#FAF8F5]">SAZUNA</span>
+              <span className="font-serif text-2xl tracking-[0.25em] font-semibold text-[#FAF8F5]">ALORA</span>
               <p className="text-[9px] tracking-[0.35em] text-[#C5A880] uppercase mt-1">HAUTE JOAILLERIE • EST. 1998</p>
             </div>
             <p className="text-xs text-[#827C75] leading-relaxed max-w-sm">
@@ -60,7 +60,7 @@ export default function Footer() {
               </div>
               <div className="flex items-center gap-2.5">
                 <Mail size={14} className="text-[#C5A880] shrink-0" />
-                <span>concierge@sazunajewellers.com</span>
+                <span>contact@alorajewellers.com</span>
               </div>
               <div className="flex items-center gap-2.5">
                 <Clock size={14} className="text-[#C5A880] shrink-0" />
@@ -129,17 +129,17 @@ export default function Footer() {
           </div>
 
           <div className="flex items-center gap-4 text-[#827C75]">
-            <a href="https://instagram.com/sazunajewellers" target="_blank" rel="noopener noreferrer" className="hover:text-[#C5A880] transition-colors uppercase tracking-widest text-[10px]">Instagram</a>
+            <a href="https://instagram.com/alorajewellers" target="_blank" rel="noopener noreferrer" className="hover:text-[#C5A880] transition-colors uppercase tracking-widest text-[10px]">Instagram</a>
             <span>•</span>
-            <a href="https://facebook.com/sazunajewellers" target="_blank" rel="noopener noreferrer" className="hover:text-[#C5A880] transition-colors uppercase tracking-widest text-[10px]">Facebook</a>
+            <a href="https://facebook.com/alorajewellers" target="_blank" rel="noopener noreferrer" className="hover:text-[#C5A880] transition-colors uppercase tracking-widest text-[10px]">Facebook</a>
             <span>•</span>
-            <a href="https://tiktok.com/@sazunajewellers" target="_blank" rel="noopener noreferrer" className="hover:text-[#C5A880] transition-colors uppercase tracking-widest text-[10px]">TikTok</a>
+            <a href="https://tiktok.com/@alorajewellers" target="_blank" rel="noopener noreferrer" className="hover:text-[#C5A880] transition-colors uppercase tracking-widest text-[10px]">TikTok</a>
           </div>
         </div>
 
         {/* Copyright & Legal */}
         <div className="pt-8 flex flex-col md:flex-row items-center justify-between text-[11px] text-[#635E59] gap-4">
-          <p>&copy; {new Date().getFullYear()} SAZUNA FINE JEWELLERS. ALL RIGHTS RESERVED.</p>
+          <p>&copy; {new Date().getFullYear()} ALORA FINE JEWELLERS. ALL RIGHTS RESERVED.</p>
           <div className="flex items-center gap-6">
             <Link href="/privacy-policy" className="hover:text-[#FAF8F5] transition-colors">Privacy Policy</Link>
             <Link href="/terms" className="hover:text-[#FAF8F5] transition-colors">Terms of Service</Link>

@@ -62,7 +62,7 @@ export default function Header() {
           <div className="flex flex-col items-center justify-center text-center">
             <Link href="/" className="group flex flex-col items-center">
               <span className="font-serif text-2xl md:text-3xl tracking-[0.25em] font-semibold text-[#171513] group-hover:text-[#C5A880] transition-colors duration-300">
-                SAZUNA
+                ALORA
               </span>
               <span className="text-[9px] tracking-[0.35em] text-[#827C75] uppercase mt-0.5 font-medium">
                 HAUTE JOAILLERIE • KATHMANDU
@@ -187,7 +187,7 @@ export default function Header() {
           <div className="relative w-4/5 max-w-sm bg-[#FAF8F5] h-full shadow-2xl flex flex-col z-10 overflow-y-auto border-r border-[#E8E2D8]">
             <div className="p-6 border-b border-[#E8E2D8] flex items-center justify-between bg-white">
               <div>
-                <span className="font-serif text-xl font-bold tracking-[0.2em] text-[#171513]">SAZUNA</span>
+                <span className="font-serif text-xl font-bold tracking-[0.2em] text-[#171513]">ALORA</span>
                 <p className="text-[9px] tracking-widest text-[#827C75] uppercase">HAUTE JOAILLERIE</p>
               </div>
               <button 

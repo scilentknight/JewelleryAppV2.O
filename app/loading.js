@@ -10,7 +10,7 @@ export default function Loading() {
       </div>
 
       <span className="font-serif text-xs uppercase tracking-[0.3em] text-[#9E7D52] font-semibold animate-pulse">
-        Sazuna Haute Joaillerie
+        Alora Haute Joaillerie
       </span>
     </main>
   );
